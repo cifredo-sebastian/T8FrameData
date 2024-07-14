@@ -61,7 +61,7 @@ function Punishment () {
             {move[3] && (
               <>
                 <FontAwesomeIcon icon={faExclamationCircle} className='info-icon' /> 
-                <Tooltip id={`move-tooltip-${tableID}-${index}-${moveIndex}`} effect="solid" className='tooltip'>{move[3]}</Tooltip>
+                <Tooltip id={`move-tooltip-${tableID}-${index}-${moveIndex}`} effect="solid" className='tooltip-custom'>{move[3]}</Tooltip>
               </>
               )}
           </td>

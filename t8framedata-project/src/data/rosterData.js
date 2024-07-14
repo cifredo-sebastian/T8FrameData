@@ -182,7 +182,8 @@ export default{
     "yoshimitsu":{
         "name":"Yoshimitsu",
         "route":"yoshimitsu",
-        "sheet":"yoshimitsu"
+        "sheet":"yoshimitsu",
+        "emotes":[""]
     },
     "zafina":{
         "name":"Zafina",
