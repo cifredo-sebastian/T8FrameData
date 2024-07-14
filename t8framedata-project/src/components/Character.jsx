@@ -51,7 +51,7 @@ function Character () {
                     <FrameDataTable characterFD={frameData}/> : 
                     <div className='fd-loading'> 
                         <FontAwesomeIcon className='fd-loading-spin' icon={faCircleNotch} spin/>
-                        <LazyLoad><img src={`/src/assets/characteremotes/${randomEmote}`} className='fd-loading-emote'></img></LazyLoad>
+                        <LazyLoad><img src={`/assets/characteremotes/${randomEmote}`} className='fd-loading-emote'></img></LazyLoad>
                     </div>
                 }
                 {/* <div className='fd-loading'> 

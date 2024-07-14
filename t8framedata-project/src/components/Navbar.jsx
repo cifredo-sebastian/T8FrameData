@@ -11,7 +11,7 @@ function Navbar () {
                 {/* <NavLink to='/'>Home</NavLink>
                 <NavLink to='/about'>About</NavLink>
                 <NavLink to='/contact'>Contact</NavLink> */}
-                <img src="/src/assets/t8s-logo2.png" className='navbar-logo'></img>
+                <img src="/assets/t8s-logo2.png" className='navbar-logo'></img>
                 {/* <h2>TekkenSource</h2> */}
             </div>
         </>
