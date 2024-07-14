@@ -153,25 +153,25 @@ export default{
         "name":"Reina",
         "route":"reina",
         "sheet":"reina",
-        "emotes":["reina.gif","reina1.gif"]
+        "emotes":["reina.gif","reina1.gif","reina.webp"]
     },
     "shaheen":{
         "name":"Shaheen",
         "route":"shaheen",
         "sheet":"shaheen",
-        "emotes":[""]
+        "emotes":["shaheen (1).webp","shaheen (2).webp","shaheen (3).webp"]
     },
     "steve":{
         "name":"Steve",
         "route":"steve",
         "sheet":"steve",
-        "emotes":[""]
+        "emotes":["steve (1).webp","steve (2).webp","steve (3).webp"]
     },
     "victor":{
         "name":"Victor",
         "route":"victor",
         "sheet":"victor",
-        "emotes":["victor.png",]
+        "emotes":["victor.png","victor (1).webp","victor (2).webp"]
     },
     "xiaoyu":{
         "name":"Xiaoyu",
@@ -183,18 +183,18 @@ export default{
         "name":"Yoshimitsu",
         "route":"yoshimitsu",
         "sheet":"yoshimitsu",
-        "emotes":[""]
+        "emotes":["yoshi.gif","yoshi (2).webp","yoshi.webp"]
     },
     "zafina":{
         "name":"Zafina",
         "route":"zafina",
         "sheet":"zafina",
-        "emotes":["zafina.gif",]
+        "emotes":["zafina.gif","zaf (1).webp","zaf (2).webp"]
     },
     "eddy":{
         "name":"Eddy",
         "route":"eddy",
         "sheet":"eddy",
-        "emotes":["eddy.png","eddy.webp"]
+        "emotes":["eddy.png","eddy.webp","eddy.gif"]
     }
 }

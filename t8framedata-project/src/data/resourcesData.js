@@ -355,7 +355,10 @@ export default {
     "shaheen" : {
         "discord" : "https://discord.gg/AWqNzQ6",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=tCd-2neMiNg",
+            "https://www.youtube.com/watch?v=dXK9P6H4qZk",
+            "https://www.youtube.com/watch?v=u8gLOq750pA",
+            "https://www.youtube.com/watch?v=OvdAf3OQpxg"
         ],
         "docs" : {
 
@@ -364,46 +367,71 @@ export default {
     "steve" : {
         "discord" : "https://discord.gg/3qRmSTj",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=Hy59BJF2jSg",
+            "https://www.youtube.com/watch?v=SJ-SzpJ6Yt0",
+            "https://www.youtube.com/watch?v=xIq7b9p8Fmc",
+            "https://www.youtube.com/watch?v=r_6Z1BwVOi8"
         ],
         "docs" : {
-
+            "Tekken 8 Steve Doc":"https://docs.google.com/spreadsheets/d/1lVaxXR6t6owXSO-AYevIcejl8DfFOAbh7DM_81oZjOw/edit?gid=1019231122#gid=1019231122"
         },
     },
     "victor" : {
         "discord" : "https://discord.gg/7MD9SM2XU8",
         "youtube" : [
+            "https://www.youtube.com/watch?v=7FBj4e7FPvM",
+            "https://www.youtube.com/watch?v=YeSBLNmIpGw",
+            "https://www.youtube.com/watch?v=DAILcXbhQCc",
+            "https://www.youtube.com/watch?v=E1HezalQKOs",
 
         ],
         "docs" : {
-
+            "VICTOR CHEVALIER DISCORD SHEET":"https://docs.google.com/spreadsheets/d/1o7EGimRl4wsz1FMmXHw8BsRk17Q7SGNnZuJEyhCAcuI/edit?gid=1307536350#gid=1307536350"
         },
     },
     "xiaoyu" : {
         "discord" : "https://discord.gg/RVmH5Zx",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=J4fQW01Zymg",
+            "https://www.youtube.com/watch?v=MJlPWZWvp_0",
+            "https://www.youtube.com/watch?v=xsY_BF7i_es",
+            "https://youtu.be/c2T-6VR5W0I?si=br2k1F1tTuIfyKgq",
+            "https://www.youtube.com/watch?v=ReiIHc6Ibcw",
         ],
         "docs" : {
-
+            "Tekken 8 Ling Xiaoyu Encyclopedia":"https://docs.google.com/document/d/1SvPOCEB_xty97fAr9uWiyPKCpEnJVIIZZ3njeOVf510/edit#heading=h.zfmb6i4hyzpn",
+            "Ling Xiaoyu Stance Spreadsheets" : "https://docs.google.com/spreadsheets/d/130YRZ_xF7pR0XECQnAkWTsXyekPrp4OkrbLCCDLUAtE/edit?gid=546711207#gid=546711207",
         },
     },
     "yoshimitsu" : {
         "discord" : "https://discord.gg/nEFd5dc",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=-SaJYuOgOgw",
+            "https://www.youtube.com/watch?v=0eXFVnpUJ2k",
+            "https://www.youtube.com/watch?v=_0rRVSizf-o",
+            "https://www.youtube.com/watch?v=RE7XRFJfJew",
+            "https://www.youtube.com/watch?v=wArp7koSj20",
+            "https://www.youtube.com/watch?v=UzHAG8UHLFA",
+            "https://www.youtube.com/watch?v=_A7PsnHglEc",
+            "https://www.youtube.com/watch?v=1_P3aoFExO0",
         ],
         "docs" : {
+            "Yoshimitsu":"https://docs.google.com/document/d/1vOND02RFBBVnFgoL73K7athGmmhm3yVz/edit#heading=h.gjdgxs",
+            "Yoshi Cheat Sheet":"https://docs.google.com/spreadsheets/d/1gF0qXFlVYHeUfP2ISaSwbyJRfBSdWjnYHZ5MHREDvSs/edit?gid=1420177787#gid=1420177787",
+
 
         },
     },
     "zafina" : {
         "discord" : "https://discord.gg/cKvtNjZ",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=wN5Td0hU5qw",
+            "https://youtu.be/bb1fMwiLPD0?si=snY8wjYnxt7SG8Dr",
+            "https://www.youtube.com/watch?v=gM04QUCZrLQ",
         ],
         "docs" : {
-
+            "Tekken 8 Zafina Basic Guide":"https://docs.google.com/document/d/1nKU-1EoJKY-QwR8magmtVkHRS7y-mhUK4k5f6mx2fDk/mobilebasic#heading=h.czqflqb0pca1",
+            "Zafina T8 Combo Guide":"https://docs.google.com/spreadsheets/d/1kU7qOrtIrYi9S7CMoDFXKQaR0n6Skdg6fpOjtiG1XIE/edit?gid=1781951550#gid=1781951550"
         },
     },
 }
