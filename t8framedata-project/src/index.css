@@ -614,6 +614,13 @@ button:focus-visible {
   text-decoration: underline; /* Underline on hover */
 }
 
+.resources-discord-list{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 20px;
+}
+
 .resources-youtube-list{
   display: flex;
   flex-direction: column;

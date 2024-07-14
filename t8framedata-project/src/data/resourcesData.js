@@ -282,7 +282,7 @@ export default {
         },
     },
     "lili" : {
-        "discord" : "https://discord.gg/kWaDaHR5",
+        "discord" : ["https://discord.gg/pFKBKXK","https://discord.gg/DbJKj5zS7a"],
         "youtube" : [
             "https://www.youtube.com/watch?v=FuLnzLzPwuQ&t=206s",
             "https://www.youtube.com/watch?v=TCmYAfTKj7c",
@@ -332,10 +332,24 @@ export default {
     "raven" : {
         "discord" : "https://discord.gg/QpnEwSm",
         "youtube" : [
+            "https://www.youtube.com/watch?v=pxoTasfp9YY",
+            "https://www.youtube.com/watch?v=TdDg3q-Hddw",
+            "https://www.youtube.com/watch?v=8X6y_EgjExE",
+            "https://www.youtube.com/watch?v=znlxLB_9Npo",
 
         ],
         "docs" : {
+            "raven stuff (combos etc)":"https://docs.google.com/document/u/0/d/182aqiexTkWlpq9rMaR67ltpqbldpHyPgqD0wEffh26k/mobilebasic#id.zhze6jcxxegr"
+        },
+    },
+    "reina" : {
+        "discord" : ["https://discord.gg/AJCBwuR3h9","https://discord.gg/Quuqdm4Sc9"],
+        "youtube" : [
+            "https://www.youtube.com/playlist?list=PL28uHObCfG2AFElVWjJVS3u-BZSuouKAL"
 
+        ],
+        "docs" : {
+            "Mishima Polytechnical School":"https://docs.google.com/spreadsheets/d/1wnP0TWL_JOIjedl0an9kMGlJ6Q8E05T0quzIVYeVVQY/edit?gid=2097575101#gid=2097575101"
         },
     },
     "shaheen" : {

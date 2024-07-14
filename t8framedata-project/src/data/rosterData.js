@@ -147,7 +147,7 @@ export default{
         "name":"Raven",
         "route":"raven",
         "sheet":"raven",
-        "emotes":[""]
+        "emotes":["raven (1).webp","raven (2).webp","raven (3).webp"]
     },
     "reina":{
         "name":"Reina",

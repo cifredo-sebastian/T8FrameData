@@ -51,7 +51,15 @@ function Resources () {
             <div className='resource-card resources-discord'> 
               <h3>Discord Server</h3> 
               <div className='section-divider'></div>
-              <a href={charResources.discord} className='resource-link'>{charName} Character Discord</a>
+              <div className='resources-discord-list'>
+                {Array.isArray(charResources.discord) ? (
+                  charResources.discord.map((link,index) => (
+                    <a href={link} key={index} className='resource-link'>{charName} Character Discord</a>
+                  ))
+                ) : (
+                <a href={charResources.discord} className='resource-link'>{charName} Character Discord</a>
+                )}
+              </div>
             </div> : null}
 
             {charResources.docs && Object.keys(charResources.docs).length > 0 ? 
