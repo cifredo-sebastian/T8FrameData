@@ -70,6 +70,11 @@ function Resources () {
 
         </motion.div>
 
+      <div className='punishers-info'>
+        <p>Video guides are naturally subject to be outdated.</p>
+      </div>
+
+
       </div>
     </>
   )
