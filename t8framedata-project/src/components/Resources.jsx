@@ -27,8 +27,8 @@ function Resources () {
   if (!charResources) {
     return (
       <div>
-        <h2>{charName} Punishment</h2>
-        <CharacterNav/>
+          <CharacterTitle/>
+          <CharacterNav/>
         <p>Resources data for {charName} could not be found.</p>
       </div>
     )

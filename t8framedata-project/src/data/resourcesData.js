@@ -133,68 +133,200 @@ export default {
     },
     "jin" : {
         "discord" : "https://discord.gg/YjbC7Xa",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "jun" : {
         "discord" : "https://discord.gg/xQ47pdh4AU",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "kazuya" : {
         "discord" : "https://discord.gg/fnvRYPR",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "king" : {
         "discord" : "https://discord.gg/EYcqqfA",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "kuma" : {
         "discord" : "https://discord.gg/UrQ2Fe6",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "lars" : {
         "discord" : "https://discord.gg/EXebNCe",
+        "youtube" : [
+
+        ],
+        "docs" : {
+            "Zeus Unlimited: A comprehensive 200 page guide on Lars Alexandersson for TEKKEN 8" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.grainger.com%2Frp%2Fs%2Fis%2Fimage%2FGrainger%2F5ERE6_5&f=1&nofb=1&ipt=2e95ce018986b94ceb365e39e15a3c7a5ca3b0ca2e54fbfad95cbeefb3d01abd&ipo=images"
+        },
     },
     "law" : {
         "discord" : "https://discord.gg/jWvTCMv",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "lee" : {
         "discord" : "https://discord.gg/7Dypwgh",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "leo" : {
         "discord" : "https://discord.gg/7GRGGAR",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "leroy" : {
         "discord" : "https://discord.gg/ACeTa8x",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "lidia" : {
         "discord" : "https://discord.gg/ZyHmEFV",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "lili" : {
         "discord" : "https://discord.gg/kWaDaHR5",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "nina" : {
         "discord" : "https://discord.gg/bGdJHn5",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "panda" : {
         "discord" : "https://discord.gg/UrQ2Fe6",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "paul" : {
         "discord" : "https://discord.gg/sKY7Yeh",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "raven" : {
         "discord" : "https://discord.gg/QpnEwSm",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "shaheen" : {
         "discord" : "https://discord.gg/AWqNzQ6",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "steve" : {
         "discord" : "https://discord.gg/3qRmSTj",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "victor" : {
         "discord" : "https://discord.gg/7MD9SM2XU8",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "xiaoyu" : {
         "discord" : "https://discord.gg/RVmH5Zx",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "yoshimitsu" : {
         "discord" : "https://discord.gg/nEFd5dc",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
     "zafina" : {
         "discord" : "https://discord.gg/cKvtNjZ",
+        "youtube" : [
+
+        ],
+        "docs" : {
+
+        },
     },
 }
