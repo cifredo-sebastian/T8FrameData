@@ -57,19 +57,19 @@ export default{
         "name":"Jack-8",
         "route":"jack8",
         "sheet":"jack-8",
-        "emotes":["jack8.gif"]
+        "emotes":["jack (1).webp","jack (2).webp","jack (3).webp"]
     },
     "jin":{
         "name":"Jin",
         "route":"jin",
         "sheet":"jin",
-        "emotes":["","",""]
+        "emotes":["jin (1).webp","jin (2).webp","jin (3).webp"]
     },
     "jun":{
         "name":"Jun",
         "route":"jun",
         "sheet":"jun",
-        "emotes":["",]
+        "emotes":["jun (1).webp","jun (2).webp","jun (3).webp"]
     },
     "kazuya":{
         "name":"Kazuya",
@@ -81,67 +81,67 @@ export default{
         "name":"King",
         "route":"king",
         "sheet":"king",
-        "emotes":["king.gif",]
+        "emotes":["king.gif","king.webp","king (2).gif"]
     },
     "kuma":{
         "name":"Kuma",
         "route":"kuma",
         "sheet":"kuma",
-        "emotes":[""]
+        "emotes":["kuma (1).webp","kuma (2).webp","kuma (1).gif"]
     },
     "lars":{
         "name":"Lars",
         "route":"lars",
         "sheet":"lars",
-        "emotes":["lars.gif",]
+        "emotes":["lars (1).webp","lars (2).webp","lars (3).webp"]
     },
     "law":{
         "name":"Law",
         "route":"law",
         "sheet":"law",
-        "emotes":["law.gif",]
+        "emotes":["law.gif","law (1).webp","law (2).webp"]
     },
     "lee":{
         "name":"Lee",
         "route":"lee",
         "sheet":"lee",
-        "emotes":[""]
+        "emotes":["lee (1).webp","lee (2).webp","lee (3).webp"]
     },
     "leo":{
         "name":"Leo",
         "route":"leo",
         "sheet":"leo",
-        "emotes":[""]
+        "emotes":["leo (1).webp","leo (2).webp","leo (3).webp"]
     },
     "leroy":{
         "name":"Leroy",
         "route":"leroy",
         "sheet":"leroy",
-        "emotes":[""]
+        "emotes":["leroy (1).webp","leroy (2).webp","leroy (1).gif"]
     },
     "lili":{
         "name":"Lili",
         "route":"lili",
         "sheet":"lili",
-        "emotes":["lili.png",]
+        "emotes":["lili.png","lili.webp","lili.gif"]
     },
     "nina":{
         "name":"Nina",
         "route":"nina",
         "sheet":"nina",
-        "emotes":[""]
+        "emotes":["nina (1).webp","nina (2).webp","nina (3).webp"]
     },
     "panda":{
         "name":"Panda",
         "route":"panda",
         "sheet":"panda",
-        "emotes":[""]
+        "emotes":["panda (1).webp","panda (2).webp","panda (1).gif"]
     },
     "paul":{
         "name":"Paul",
         "route":"paul",
         "sheet":"paul",
-        "emotes":[""]
+        "emotes":["paul (1).webp","paul (2).webp","paul (3).webp"]
     },
     "raven":{
         "name":"Raven",
@@ -177,7 +177,7 @@ export default{
         "name":"Xiaoyu",
         "route":"xiaoyu",
         "sheet":"xiaoyu",
-        "emotes":["xiaoyu.png",]
+        "emotes":["xiaoyu.png","xiaoyu.webp","xiaoyu1.webp"]
     },
     "yoshimitsu":{
         "name":"Yoshimitsu",

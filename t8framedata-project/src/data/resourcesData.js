@@ -125,7 +125,10 @@ export default {
     "jack8" : {
         "discord" : "https://discord.gg/Pg7XgsT",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=ozuszcUdEz8",
+            "https://www.youtube.com/watch?v=xFq08TjzZlw",
+            "https://www.youtube.com/watch?v=9PYmTIOOxgQ",
+            "https://www.youtube.com/watch?v=xFq08TjzZlw",
         ],
         "docs" : {
 
@@ -134,7 +137,10 @@ export default {
     "jin" : {
         "discord" : "https://discord.gg/YjbC7Xa",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=NFoSAl6XNx4",
+            "https://www.youtube.com/watch?v=aaaDQ-2U4F0",
+            "https://www.youtube.com/watch?v=9xK-CvT5K44",
+            "https://www.youtube.com/watch?v=sQJsbzzNyVA",
         ],
         "docs" : {
 
@@ -143,16 +149,26 @@ export default {
     "jun" : {
         "discord" : "https://discord.gg/xQ47pdh4AU",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=elX1do0tsPs",
+            "https://www.youtube.com/watch?v=eaiE3J4cdWI",
+            "https://www.youtube.com/watch?v=W5nA6Dy8KxU",
+            "https://www.youtube.com/watch?v=2CsvhR-_ryA",
+            "https://www.youtube.com/watch?v=5zdN2w4UMoc",
         ],
         "docs" : {
-
+            "Tekken 8 Jun Guide" : "https://docs.google.com/document/u/0/d/1ONxqTKtZmlQBM4qvBw0seKzohkwDZt3IJa19BFSkSnU/mobilebasic?pli=1",
+            "Jun Tekken 8 - Combos" : "https://docs.google.com/spreadsheets/d/10i6NZXxPzv0FgmUU367xyzKCS2rD7DnXQUQC390HGEE/edit?gid=564525589#gid=564525589",
         },
     },
     "kazuya" : {
         "discord" : "https://discord.gg/fnvRYPR",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=I241sz6gYPE",
+            "https://www.youtube.com/watch?v=DqgA_YtlxCs",
+            "https://www.youtube.com/watch?v=HqoozRglG7I",
+            "https://www.youtube.com/watch?v=YvHHow8YRBM",
+            "https://www.youtube.com/watch?v=XLJOT6tEuRk",
+            "https://www.youtube.com/watch?v=t_84oJt2DkQ",
         ],
         "docs" : {
 
@@ -161,15 +177,25 @@ export default {
     "king" : {
         "discord" : "https://discord.gg/EYcqqfA",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=seNZV2umQ3w",
+            "https://www.youtube.com/watch?v=wSqZwDLOggY",
+            "https://www.youtube.com/watch?v=UOpGEdVuq0c",
+            "https://www.youtube.com/watch?v=WYJ9UWn4e4o",
+            "https://www.youtube.com/watch?v=QhmIlcU2a_w"
         ],
         "docs" : {
+            "Tekken 8 King Strats" : "https://docs.google.com/spreadsheets/d/1-aeIC4noyLMNVprbUuH4M47qJGuknLgX60Xad8i6TTA/edit?gid=92369657#gid=92369657",
+            "King Tekken 8 Oki" : "https://docs.google.com/document/d/1RrAc6elZ1zpKzzcv18KjjjF_j6IMMmvWuw1BRodPAuA/edit",
+
 
         },
     },
     "kuma" : {
         "discord" : "https://discord.gg/UrQ2Fe6",
         "youtube" : [
+            "https://www.youtube.com/watch?v=gAyAJ6BGqMM",
+            "https://www.youtube.com/watch?v=PGIS63xmb9o",
+            "https://www.youtube.com/watch?v=LPaz-18gAD4",
 
         ],
         "docs" : {
@@ -179,15 +205,25 @@ export default {
     "lars" : {
         "discord" : "https://discord.gg/EXebNCe",
         "youtube" : [
+            "https://www.youtube.com/watch?v=yhzcXcHTcHs",
+            "https://www.youtube.com/watch?v=TEA80Y-dQVA",
+            "https://www.youtube.com/watch?v=UZYevqjV218",
+            "https://www.youtube.com/watch?v=og1bdp-kxPg",
+            "https://www.youtube.com/watch?v=W2ibkYSnAYE",
 
         ],
         "docs" : {
-            "Zeus Unlimited: A comprehensive 200 page guide on Lars Alexandersson for TEKKEN 8" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.grainger.com%2Frp%2Fs%2Fis%2Fimage%2FGrainger%2F5ERE6_5&f=1&nofb=1&ipt=2e95ce018986b94ceb365e39e15a3c7a5ca3b0ca2e54fbfad95cbeefb3d01abd&ipo=images"
+            "LARS_ALEXANDERSSON_COMMUNITY_SHEET" : "https://docs.google.com/spreadsheets/d/14wLh65hDkmjB2j1e8Og5SylcMQWKTGgI/edit?gid=612900411#gid=612900411",
+            "Zeus Unlimited: A comprehensive 200 page guide on Lars Alexandersson for TEKKEN 8" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.grainger.com%2Frp%2Fs%2Fis%2Fimage%2FGrainger%2F5ERE6_5&f=1&nofb=1&ipt=2e95ce018986b94ceb365e39e15a3c7a5ca3b0ca2e54fbfad95cbeefb3d01abd&ipo=images",
+
         },
     },
     "law" : {
         "discord" : "https://discord.gg/jWvTCMv",
         "youtube" : [
+            "https://www.youtube.com/watch?v=1dfIMozvUM4",
+            "https://www.youtube.com/watch?v=XkfuLcwi1X0",
+            "https://www.youtube.com/watch?v=6oeM0LjZxh4",
 
         ],
         "docs" : {
@@ -197,73 +233,100 @@ export default {
     "lee" : {
         "discord" : "https://discord.gg/7Dypwgh",
         "youtube" : [
+            "https://www.youtube.com/watch?v=yv7lD4N2Fzc",
+
 
         ],
         "docs" : {
-
+            "Lee @ Tekken 8" : "https://docs.google.com/spreadsheets/d/e/2PACX-1vRkHMNJiIqWxU5si9A7ylZz2tMD0TOJpVFp2CwbtIhaseWA9nRpjb8nANb2Gl8l86hLx7qX1WGar7jy/pubhtml",
+            "T8 Lee Chaolan Match ups & Punishment info -Super WIP" : "https://docs.google.com/spreadsheets/d/1kOTPX-iKbAOQB4drYqzNp-g-l9jaE-eKBS6-9rHGRIQ/edit?gid=1363606974#gid=1363606974",
         },
     },
     "leo" : {
         "discord" : "https://discord.gg/7GRGGAR",
         "youtube" : [
+            "https://www.youtube.com/watch?v=O2P6rG854Pk",
+            "https://www.youtube.com/watch?v=i7cIX7teBAc",
+            "https://www.youtube.com/watch?v=83ktF_dpM00",
+            "https://www.youtube.com/watch?v=L3xQGDWY4LA"
 
         ],
         "docs" : {
+            "T8 Leo Low Execution Combos" : "https://docs.google.com/document/d/1Aqv8VV3vZsNtDqr1lKo4bA7R37pyDUR34yG5JJqUljU/edit#heading=h.z94z1sxpap9b",
+            "Leo Combo Guide" : "https://docs.google.com/document/d/1b3xzZqfyqGGaP7Kfb26BznQ2J7bssfvKvr_f6FZIxc0/edit#heading=h.dj3ugfploepj",
 
         },
     },
     "leroy" : {
         "discord" : "https://discord.gg/ACeTa8x",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=twaQ_uU7zfw",
+            "https://www.youtube.com/watch?v=6ektJ7k3u8w",
+            "https://www.youtube.com/watch?v=LedCMbZfBv4"
         ],
         "docs" : {
-
+            "Leroys gameplan concept by Leroy’s Drip Academy Veterans ":"https://docs.google.com/document/d/1w5EkudXYi18ps6cz94oUw7JYShMTTYKSgpT-o3TpfWg/edit#heading=h.xv0rpc7ox8uf",
+            "T8_ Leroy combos":"https://docs.google.com/spreadsheets/d/1Hs7z8edFTTjNYhsdORIJzH-67YjqX6-1lYjieEQH8sU/edit?gid=672831112#gid=672831112",
+            "T8 Leroy Parry Punishment":"https://docs.google.com/spreadsheets/d/1-U_uLST0zABPZVYhVpy3H3Ch6HObGBNyxQ5n_qyJdOI/edit?gid=0#gid=0",
         },
     },
     "lidia" : {
         "discord" : "https://discord.gg/ZyHmEFV",
         "youtube" : [
-
+            
         ],
         "docs" : {
+            
+
 
         },
     },
     "lili" : {
         "discord" : "https://discord.gg/kWaDaHR5",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=FuLnzLzPwuQ&t=206s",
+            "https://www.youtube.com/watch?v=TCmYAfTKj7c",
+            "https://www.youtube.com/watch?v=u1EIOoujqfw",
+            "https://www.youtube.com/watch?v=Y0gI7Rq2le8",
+            "https://www.youtube.com/watch?v=sVaUYeJ0xyU",
         ],
         "docs" : {
-
+            "T8 Lili Guide":"https://docs.google.com/document/d/1nqDOVDcVWeDrWc05sk5di4rLt2xWUBi2DkjxrxalgbI/edit#heading=h.au9001x0inqv",
         },
     },
     "nina" : {
         "discord" : "https://discord.gg/bGdJHn5",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=8tgJbMsZhtY",
+            "https://www.youtube.com/watch?v=TzwABlO1P30",
+            "https://www.youtube.com/watch?v=1MmwMpwCDJg",
+            "https://www.youtube.com/watch?v=ooFVcWMu0Qc",
+            "https://www.youtube.com/watch?v=zGdIeRnr46M",
+            "https://www.youtube.com/watch?v=G4wkf-n7XWY",
         ],
         "docs" : {
-
+            "T8 Nina Guide":"https://docs.google.com/document/d/15iC2duCQLb0EoqBXyMkjWffiFE_IDLaenVBA6kS2bM4/edit#heading=h.au9001x0inqv"
         },
     },
     "panda" : {
         "discord" : "https://discord.gg/UrQ2Fe6",
         "youtube" : [
+            "https://www.youtube.com/watch?v=gAyAJ6BGqMM",
+            "https://www.youtube.com/watch?v=PGIS63xmb9o"
 
         ],
         "docs" : {
-
         },
     },
     "paul" : {
         "discord" : "https://discord.gg/sKY7Yeh",
         "youtube" : [
-
+            "https://www.youtube.com/watch?v=CChX2GMUPfc",
+            "https://www.youtube.com/watch?v=GZrVy4ys6OY",
+            "https://www.youtube.com/watch?v=Io6vfBZJxac&list=PLz6d25-hHxIBvzuLPyKqyEw48Cb9Z19PH",
         ],
         "docs" : {
-
+            "No Pain, No Gain's Tekken 8 Paul Guide (Public)":"https://docs.google.com/document/d/173IH4FjiIU1Wl9a0Yy5L5h8V8CLpy6KV1tQ6OmXKkxI/edit#heading=h.j5nv7dqcrdyq",
         },
     },
     "raven" : {
