@@ -168,7 +168,7 @@ function FrameDataTable ( {characterFD} ) {
                     <div className="fd-table-wrapper">
                         <table className="fd-table">
                             <thead className="fd-table-header">
-                                <motion.div 
+                                {/* <motion.div 
                                     className="fd-arrow-back" 
                                     initial={{ opacity: 0 }}
                                     animate={{ opacity: 1 }}
@@ -176,8 +176,7 @@ function FrameDataTable ( {characterFD} ) {
                                     onClick={() => navigate('/')}
                                 >
                                     <FontAwesomeIcon icon={faChevronLeft}  />
-                                    {/* <p>Go Back</p> */}
-                                </motion.div>
+                                </motion.div> */}
                                 {renderTableHeader()}
                             </thead>
                             <tbody className="fd-table-body">

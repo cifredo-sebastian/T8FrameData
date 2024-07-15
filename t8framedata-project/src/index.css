@@ -174,9 +174,9 @@ button:focus-visible {
 .card-img {
   width: 100%;
   height: calc(100% - 40px);
-  display: flex; /* Added */
-  align-items: center; /* Added */
-  justify-content: center; /* Added */
+  display: flex;
+  align-items: center;
+  justify-content: center; 
   overflow: hidden;
   border-radius: .50rem;
   position: relative;
@@ -269,6 +269,7 @@ button:focus-visible {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  overflow-x: hidden;
 }
 
 .fd-loading {
@@ -286,8 +287,8 @@ button:focus-visible {
 
 @media (max-width: 430px) {
   .fd-loading-spin {
-    height: auto; /* Change this to auto to maintain aspect ratio */
-    width: 30px; /* Set a specific width */
+    height: auto;
+    width: 30px;
   }
 }
 
@@ -302,23 +303,10 @@ button:focus-visible {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  overflow-x: hidden;
 }
 
-.table-container {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 90%;
-}
-
-@media (max-width: 430px) {
-  .table-container  {
-    width: 100%;
-  }
-}
-
-.fd-arrow-back {
+/* .fd-arrow-back {
   position: absolute;
   left: -80px;
   z-index: 10;
@@ -327,22 +315,21 @@ button:focus-visible {
   padding-top: 10px;
   display: inline-block;
   transition: filter 0.3s ease-in-out, transform 0.3s ease-in-out;
-}
+} */
 
-.fd-arrow-back:hover {
+/* .fd-arrow-back:hover {
   cursor: pointer;
-  filter: brightness(250%); /* Example brightness increase on hover */
+  filter: brightness(250%);
   transform: translateX(4) scale(1.5);
-}
+} */
 
-@media (max-width: 1700px) {
+/* @media (max-width: 1700px) {
   .fd-arrow-back {
-    left: -40px; /* Adjust left position for smaller screens */
-    /* Optional: Reduce padding for smaller screens */
+    left: -40px;
     padding-left: 20px; 
     padding-right: 10px;
   }
-}
+} */
 
 .fd-search-container {
   display: flex;
@@ -366,45 +353,41 @@ button:focus-visible {
 }
 
 .fd-table-search input::placeholder {
-  color: var(--search-placeholder); /* Placeholder text color */
+  color: var(--search-placeholder);
 }
 
 .fd-table-search input:focus {
-  border-color: #007BFF; /* Blue border on focus */
-  box-shadow: 0 2px 5px rgba(0, 123, 255, 0.3); /* Blue shadow on focus */
+  border-color: #007BFF; 
+  box-shadow: 0 2px 5px rgba(0, 123, 255, 0.3); 
 }
 
-.fd-table-wrapper {
+.table-container {
   position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 100%
+  width: 100%;
 }
 
-@media (max-width: 430px) {
-  .fd-table-wrapper  {
-    width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
+.fd-table-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  overflow-x: scroll;
 }
 
 .fd-table {
   border-collapse: collapse; 
   table-layout: auto;
-  text-align:left;
+  width: 100%;
   vertical-align:top;
-  border-radius:calc(var(--table-border-radius) - 1px);
   border-spacing:0;
   box-sizing:border-box;
   height:0;
-  
 }
 
 .fd-table th,
 .fd-table td {
-  padding: 8px; 
+  padding: 8px 8px;
   text-align: left; 
   box-sizing: border-box;
   text-align:left;
@@ -438,10 +421,9 @@ button:focus-visible {
   background-color: var(--cell-hover);
 }
 
-@media (max-width: 430px) {
+@media (max-width: 830px) {
   .fd-table th,
   .fd-table td  {
-    padding: 1px;
     font-size: 12px;
   }
 }
@@ -453,7 +435,7 @@ button:focus-visible {
 }
 
 .fd-table td li {
-  list-style-type: disc; /* Use disc bullet points */
+  list-style-type: disc;
 }
 
 .combined-cell {
@@ -479,8 +461,8 @@ button:focus-visible {
 .name-row {
   width: 100%;
   white-space: nowrap;
-  font-size: 0.8em; /* Smaller font size for the last column */
-  color: #666; /* Optional: Adjust text color */  
+  font-size: 0.8em;
+  color: #666;
 }
 
 .plusoB {
@@ -542,7 +524,7 @@ button:focus-visible {
 
 .punishers-info p{
   margin-top: 40px;
-  max-width: 500px; /* Set max-width for the paragraph container */
+  max-width: 500px;
   word-wrap: break-word;
   color: var(--gray-text);
 }
@@ -579,7 +561,7 @@ button:focus-visible {
 .resources-sections-div {
   display: flex;
   flex-direction: column;
-  gap: 20px; /* Space between sections */
+  gap: 20px;
 }
 
 .resources-sections-div h3 {
@@ -588,30 +570,30 @@ button:focus-visible {
 }
 
 .section-divider {
-  height: 2px; /* Thickness of the line */
-  background-color: var(--section-divider); /* Color of the line */
-  margin: 10px 0; /* Space above and below the line */
+  height: 2px; 
+  background-color: var(--section-divider); 
+  margin: 10px 0; 
 }
 
 .resource-card {
-  border-radius: 8px; /* Rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-  padding: 20px; /* Padding inside the card */
-  transition: box-shadow 0.3s ease; /* Smooth shadow transition */
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  padding: 20px;
+  transition: box-shadow 0.3s ease;
 }
 
 .resource-card:hover {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Darker shadow on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .resource-link {
-  color: #007bff; /* Bootstrap primary color */
-  text-decoration: none; /* No underline */
-  font-weight: bold; /* Bold text */
+  color: #007bff;
+  text-decoration: none; 
+  font-weight: bold;
 }
 
 .resource-link:hover {
-  text-decoration: underline; /* Underline on hover */
+  text-decoration: underline;
 }
 
 .resources-discord-list{
@@ -637,7 +619,7 @@ button:focus-visible {
 
 .youtube-player-wrapper {
   position: relative;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  padding-top: 56.25%;
 }
 
 .react-player {
@@ -649,30 +631,7 @@ button:focus-visible {
 
 /* ############################################################ Mobile ############################################################*/
 
-/* Example Flexbox layout */
-.container {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.item {
-  flex: 1 1 100%; /* Flex-grow, flex-shrink, flex-basis */
-}
-
-@media (min-width: 600px) {
-  .item {
-    flex: 1 1 48%; /* Adjusts layout for larger screens */
-  }
-}
-
-
-@media (max-width: 430px) {
-  .item {
-    flex: 1 1 100%;
-  }
-}
-
-@media (max-width: 430px) {
+@media (max-width: 1000px) {
   .hide-on-mobile {
     display: none;
   }

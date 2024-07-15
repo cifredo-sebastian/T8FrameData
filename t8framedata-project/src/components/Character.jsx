@@ -38,12 +38,7 @@ function Character () {
 
     return (
         <>
-            <motion.div
-                initial={{ opacity: 1, y: 0 }}
-                animate={{ opacity: 1, y: 0}}
-                transition={{ duration: 1 }}
-                className='character-div'
-            >
+            <div className='character-div'>
                 <CharacterTitle/>
                 
                 <CharacterNav/>
@@ -58,7 +53,7 @@ function Character () {
                         <FontAwesomeIcon className='fd-loading-spin' icon={faCircleNotch} spin/>
                         <LazyLoad><img src={`/assets/characteremotes/${randomEmote}`} className='fd-loading-emote'></img></LazyLoad>
                 </div> */}
-            </motion.div>   
+            </div> 
         </>
     )
   
