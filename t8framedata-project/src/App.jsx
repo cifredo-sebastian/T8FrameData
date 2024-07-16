@@ -8,6 +8,7 @@ import Navbar from './components/Navbar';
 
 import Character from './components/Character';
 import PreloadImages from './utils/PreloadImages';
+import Footer from './components/Footer';
 
 
 const ScrollToTop = () => {
@@ -42,7 +43,11 @@ function App() {
 
 
               </Routes>
+              <Footer/>
+              
       </div>
+      
+      
     </>
   )
 }
