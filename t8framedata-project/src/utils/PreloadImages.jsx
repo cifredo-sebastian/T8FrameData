@@ -3,7 +3,7 @@ import React from "react";
 function PreloadImages () {
     React.useEffect(() => {
         // Dynamically import all images in the folder
-        const images = import.meta.glob('/src/assets/characteremotes/*.{png,jpg,jpeg,svg,webp,gif}');
+        const images = import.meta.glob('/assets/characteremotes/*.{png,jpg,jpeg,svg,webp,gif}');
         let imagesLoaded = 0;
         const totalImages = Object.keys(images).length;
         // Preload each image
