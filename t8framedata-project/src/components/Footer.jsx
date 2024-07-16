@@ -19,7 +19,7 @@ function Footer (){
                     </ul>
                 </div>
                 <div className="footer-bottom">
-                    <p>Tekkensource is not connected with, sponsored, or endorsed by Namco Bandai or any of its affiliated companies.</p>
+                    <p>Tekkensource is an unofficial webapp covering character frame data and game strategy for TEKKEN® 8. This site is not conected with, sponsored, affiliated with or endorsed by Bandai Namco Holdings Inc. or any of its subsidiaries.</p>
                 </div>
             </div>
         </footer>
