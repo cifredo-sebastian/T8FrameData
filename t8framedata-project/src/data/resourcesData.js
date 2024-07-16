@@ -213,7 +213,7 @@ export default {
 
         ],
         "docs" : {
-            "LARS_ALEXANDERSSON_COMMUNITY_SHEET" : "https://docs.google.com/spreadsheets/d/14wLh65hDkmjB2j1e8Og5SylcMQWKTGgI/edit?gid=612900411#gid=612900411",
+            "LARS ALEXANDERSSON COMMUNITY SHEET" : "https://docs.google.com/spreadsheets/d/14wLh65hDkmjB2j1e8Og5SylcMQWKTGgI/edit?gid=612900411#gid=612900411",
             "Zeus Unlimited: A comprehensive 200 page guide on Lars Alexandersson for TEKKEN 8" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.grainger.com%2Frp%2Fs%2Fis%2Fimage%2FGrainger%2F5ERE6_5&f=1&nofb=1&ipt=2e95ce018986b94ceb365e39e15a3c7a5ca3b0ca2e54fbfad95cbeefb3d01abd&ipo=images",
 
         },
