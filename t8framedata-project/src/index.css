@@ -636,12 +636,19 @@ button:focus-visible {
 /* ############################################################ Features ############################################################*/
 
 .features {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   padding-bottom: 4.5rem;
 }
 
 /* ############################################################ Credits ############################################################*/
 
 .credits {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 545px;
   padding-bottom: 4.5rem;
 }
 
