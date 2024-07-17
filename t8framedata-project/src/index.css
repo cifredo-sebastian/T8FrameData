@@ -745,6 +745,7 @@ button:focus-visible {
   text-align: center;
   flex-wrap: wrap;
   text-wrap: balance;
+  color: #ffffff;
 }
 
 
