@@ -16,7 +16,7 @@ function Credits () {
                 <h3>Main Programmer</h3>
                 <p><a href="https://github.com/cifredo-sebastian">tougou</a></p>
 
-                <p>There is no end-goal for this site. I only did it for fun and for my own personal use, and it's my hope that you will also find it useful. I will try to continue working on this site and making it more useful in the future.</p>
+                <p>There is no end-goal for this site. I only did it for fun and for my own personal use, and it's my hope that you will also find it useful. I will try to continue working on this site and improving it in the future.</p>
             </div>
         </>
     )
