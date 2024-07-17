@@ -26,7 +26,7 @@ const ScrollToTop = () => {
 
 function App() {
   return (
-    <>
+    <div className='page-div'>
       <Navbar/>
       <div className='app-div'>
 
@@ -48,12 +48,10 @@ function App() {
 
 
               </Routes>
-              <Footer/>
-              
       </div>
+      <Footer/>
       
-      
-    </>
+    </div>
   )
 }
 
