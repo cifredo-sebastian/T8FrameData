@@ -647,8 +647,8 @@ export default {
     },
     "yoshimitsu" : {
         "standing" : [
-            ["i6","1SS.1+4","21 (+)","+14"],
-            ["i8","NSS.1+4","24 (+)","+14 +64a"],
+            ["i6","1SS.1+4","21 (+)","+14","Flash may punish specific moves in specific situations, but it will not punish any -6 move or above due to spacing and other such factors."],
+            ["i8","NSS.1+4","24 (+)","+14 +64a","NSS Flash may punish specific moves in specific situations, but it will not punish any -8 move or above due to spacing and other such factors."],
             ["i10","1,1SS.1","26","+4c"],
             ["i10","1,NSS.1","29","+16d"],
             ["i11","2,2","28","+15g"],
@@ -662,10 +662,10 @@ export default {
             ["i18","H.2+3","51","-3d","Heat smash, requires heat"]
         ],
         "crouching" : [
-            ["i6","FC 1SS.d+1+4 	 	","20 (+)","+14"],
-            ["i8","FC NSS.d+1+4 	 	","24 (+)","+14 +64a"],
+            ["i6","FC 1SS.d+1+4","20 (+)","+14","Flash may punish specific moves in specific situations, but it will not punish any -6 move or above due to spacing and other such factors."],
+            ["i8","FC NSS.d+1+4","24 (+)","+14 +64a","NSS Flash may punish specific moves in specific situations, but it will not punish any -8 move or above due to spacing and other such factors."],
             ["i11","ws4","14","+5"],
-            ["i14","ws1,2 (+)","30","+14g"],
+            ["i14","ws1,2","30 (+)","+14g"],
             ["i15","ws2,1SS.1","27 (+)","+36a (+26)"],
             ["i15","uf+3","15 (+)","+32a (+22)"],
             ["i17","f,n,d,df+1","22 (+)","+35a (+25)"],
