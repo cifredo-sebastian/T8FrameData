@@ -8,6 +8,9 @@ import Navbar from './components/Navbar';
 
 import Character from './components/Character';
 import PreloadImages from './utils/PreloadImages';
+import Footer from './components/Footer';
+import Features from './components/Features';
+import Credits from './components/Credits';
 
 
 const ScrollToTop = () => {
@@ -40,9 +43,16 @@ function App() {
                 <Route path='/:char/punishment' element={<Punishment/>} ></Route>
                 <Route path='/:char/resources' element={<Resources/>} ></Route>
 
+                <Route path='/features' element={<Features/>} ></Route>
+                <Route path='/credits' element={<Credits/>} ></Route>
+
 
               </Routes>
+              <Footer/>
+              
       </div>
+      
+      
     </>
   )
 }
