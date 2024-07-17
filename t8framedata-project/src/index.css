@@ -216,11 +216,34 @@ button:focus-visible {
   justify-content: center;
   align-items: center;
   cursor: pointer;
+  position: relative;
 }
 
 .character-title img {
   border-radius: 1.5rem;
   padding: 16px;
+}
+
+.character-name-and-type {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.char-name {
+  margin: 0;
+}
+
+.char-type {
+  margin: 0;
+  white-space: nowrap;
+  font-size: 0.8em;
+  color: #666;
+  text-align: right;
+  position: absolute;
+  top: 100%;
+  left: 0%;  
 }
 
 .characternav-div {
