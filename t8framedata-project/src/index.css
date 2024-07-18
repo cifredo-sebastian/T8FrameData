@@ -266,7 +266,7 @@ button:focus-visible {
   text-align: left;
 }
 
-@media (max-width: 430px) {
+@media (max-width: 500px) {
   .character-name-and-type {
     min-width: 200px
   }
