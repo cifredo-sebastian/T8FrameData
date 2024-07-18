@@ -17,12 +17,15 @@ function CharacterTitle ({}){
 
     return (
         <div className='character-title' onClick={() => navigate('/')}>
-            <img alt={char} src={`/assets/characterthumbs/${char}-512.png`} width={52} height={52}></img>
-            <div className="character-name-and-type">
-                <h2 className="char-name">{charName}</h2>
-                <p className="char-type">{charType}</p>
+            <div className="character-content">
+                <div className="character-img-name">          
+                    <img alt={char} src={`/assets/characterthumbs/${char}-512.png`} width={52} height={52}></img>
+                    <div className="character-name-and-type">
+                        <h2 className="char-name">{charName}</h2>
+                        <p className="char-type">{charType}</p>
+                    </div>
+                </div>
             </div>
-            
         </div>
     )
 }

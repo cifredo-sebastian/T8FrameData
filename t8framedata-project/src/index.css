@@ -225,16 +225,31 @@ button:focus-visible {
   position: relative;
 }
 
+.character-content {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.character-img-name {
+  display: flex;
+  align-items: center;
+  transform: translateX(27%);
+}
+
 .character-title img {
   border-radius: 1.5rem;
   padding: 16px;
+  
 }
 
 .character-name-and-type {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: flex-start;
   position: relative;
+  min-width: 250px;
 }
 
 .char-name {
@@ -243,13 +258,23 @@ button:focus-visible {
 
 .char-type {
   margin: 0;
-  white-space: nowrap;
+  white-space: normal;
   font-size: 0.8em;
   color: #666;
   position: absolute;
   top: 100%;
-  left: 0%;
+  text-align: left;
 }
+
+@media (max-width: 430px) {
+  .character-name-and-type {
+    min-width: 200px
+  }
+  .character-img-name {
+    transform: translateX(25%);
+  }
+}
+
 
 .characternav-div {
   display: flex;
