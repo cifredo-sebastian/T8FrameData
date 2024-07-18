@@ -706,7 +706,7 @@ button:focus-visible {
   flex-direction: column;
   align-items: left;
   margin: 0;
-  max-width: 546px;
+  padding: 1rem 2rem;
 }
 
 .footer-column {
@@ -714,6 +714,7 @@ button:focus-visible {
   padding: 10px;
   min-width: 250px;
   align-items: left;
+  max-width: 546px;
 }
 
 .footer-column p, .footer-column ul, .footer-column ul li {
