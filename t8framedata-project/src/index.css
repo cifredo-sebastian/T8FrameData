@@ -108,11 +108,19 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+.page-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex: 1;
+}
 
 .app-div {
   display: flex;
   flex-direction: column;
-  padding-top: 1.5em;
+  padding-top: 3.5em;
 }
 
 .navbar-div {
@@ -184,8 +192,6 @@ button:focus-visible {
 }
 
 .card-img img {
-  /* max-width: 100%;
-  max-height: 100%; */
   width: 72px;
   height: 88px;
   object-fit: contain;
@@ -240,10 +246,9 @@ button:focus-visible {
   white-space: nowrap;
   font-size: 0.8em;
   color: #666;
-  text-align: right;
   position: absolute;
   top: 100%;
-  left: 0%;  
+  left: 0%;
 }
 
 .characternav-div {
@@ -361,6 +366,7 @@ button:focus-visible {
   display: flex;
   justify-content: center;
   margin: 20px;
+  max-width: 1980px;
 }
 
 .fd-table-search {
@@ -507,13 +513,14 @@ button:focus-visible {
   color: inherit;
 }
 
-/* ################################################ Character Frame Data ################################################ */
+/* ################################################ Character Punishment ################################################ */
 
 .punishers-div{
   display: flex;
   flex-direction: column;
   justify-content: center;
   padding-bottom: 4.5rem;
+  max-width: 546px;
 }
 
 .punisher-table-div {
@@ -578,12 +585,15 @@ button:focus-visible {
   }
 }
 
+/* ################################################ Character Resources ################################################ */
+
 .resources-div {
   display: flex;
   flex-direction: column;
   position: relative;
   top: 0;
   padding-bottom: 4.5rem;
+  max-width: 546px;
 }
 
 .resources-sections-div {
@@ -680,34 +690,24 @@ button:focus-visible {
 
 .footer {
   color: var(--text-color);
-  bottom: 0;
-  left: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 10rem;
-  margin: 0 auto;
-  max-width: 545px;
-}
-
-.footer::before {
-  content: '';
-  position: absolute;
-  top: 1;
-  left: 0;
+  position: relative;
+  padding: 0;
   width: 100vw;
-  height: calc(100vh - 75vh);
+  height: 100%;
   background-color: var(--nav-background-color);
-  z-index: -1;
-  
+  margin-top: auto;
+  flex-shrink: 0;
 }
 
 .footer-container {
   display: flex;
   flex-direction: column;
   align-items: left;
-  margin: 0 auto;
-  width: fit-content;
+  margin: 0;
+  max-width: 546px;
 }
 
 .footer-column {
