@@ -32,7 +32,7 @@ export default{
         "route":"claudio",
         "sheet":"claudio",
         "emotes":["claudio.webp","claudio2.webp","claudio3.webp"],
-        "type":"Install, Pressure, Mid-range, Well-Rounded"
+        "type":"Install, Pressure, Range, Well-Rounded"
     },
     "deviljin":{
         "name":"Devil Jin",
