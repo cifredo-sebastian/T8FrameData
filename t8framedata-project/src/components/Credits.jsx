@@ -6,7 +6,7 @@ function Credits () {
         <>
             <div className="credits">
                 <h2>Credits</h2>
-                <p>Frame data is being imported thanks to this <a href="https://docs.google.com/spreadsheets/d/1IDC11ShZjpo6p5k8kV24T-jumjY27oQZlwvKr_lb4iM/edit?gid=1132769394#gid=1132769394">Tekken 8 Frame Data Google Sheet</a>, maintained by the Tekken community.</p>
+                <p>Frame data is being imported thanks to this <a href="https://docs.google.com/spreadsheets/d/1IDC11ShZjpo6p5k8kV24T-jumjY27oQZlwvKr_lb4iM/edit?gid=1132769394#gid=1132769394">Tekken 8 Frame Data Google Sheet</a>, maintained by the Tekken community. This means that I don't have direct control over what is being displayed on this site.</p>
 
                 <h3>Special Thanks</h3>
                 <p>Many thanks to <a href="https://wavu.wiki/t/Main_Page">wavu.wiki</a>, the numerous character discords, content creators and the Tekken community at large for the work they've done in providing information and strategies for all players to enjoy.</p>

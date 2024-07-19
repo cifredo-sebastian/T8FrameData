@@ -91,14 +91,31 @@ function FrameDataTable ( {characterFD} ) {
     function filterData(origFD, search) {
         if (!search) return origFD;
 
-        if (search.startsWith('+') || search.startsWith('-')) {
+        if (search.startsWith('+') || search.startsWith('-') || search.startsWith('++') || search.startsWith('--')) {
             // Extract the numeric value from the search input
-            const valueToCompare = parseFloat(search);
+            let cleanedSearch = search.replace('++', '').replace('--', '-');
+            const valueToCompare = parseFloat(cleanedSearch);
+            
+            // console.log('search:', search);
+            // console.log('cleanedSearch:', cleanedSearch);
+            // console.log('valueToCompare:', valueToCompare);
     
-            // Determine the comparison function based on '+' or '-'
-            const comparator = search.startsWith('+') ?
-                (actualValue, searchValue) => actualValue >= searchValue :
-                (actualValue, searchValue) => actualValue <= searchValue;
+            // Determine the comparison function based on '+' or '-' (>= and <= for moves ++ or higher, and moves -- or lower.)
+            let comparator
+            if (search.startsWith('++')) {
+                console.log('++')
+                comparator = (actualValue, searchValue) => actualValue >= searchValue;
+            } else if (search.startsWith('--')) {
+                console.log('--')
+                comparator = (actualValue, searchValue) => actualValue <= searchValue;
+            } else {
+                comparator = (actualValue, searchValue) => actualValue == searchValue;
+            }
+
+            // Original range comparisons
+            // const comparator = search.startsWith('++') ?
+            //     (actualValue, searchValue) => actualValue >= searchValue :
+            //     (actualValue, searchValue) => actualValue <= searchValue;
     
             // Filter the original data based on numeric comparison
             return origFD.filter((move) => {

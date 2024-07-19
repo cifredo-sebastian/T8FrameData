@@ -39,7 +39,7 @@ export default{
         "route":"deviljin",
         "sheet":"devil-jin",
         "emotes":["dvj (1).webp","dvj (2).webp","dvj (3).webp"],
-        "type":"Mobility, 50/50, Execution, Mishima"
+        "type":"Movement, 50/50, Execution, Mishima"
     },
     "dragunov":{
         "name":"Dragunov",
@@ -151,7 +151,7 @@ export default{
         "route":"nina",
         "sheet":"nina",
         "emotes":["nina (1).webp","nina (2).webp","nina (3).webp"],
-        "type":"Rushdown, Pressure, Execution"
+        "type":"Rushdown, Pressure, Execution, Throws"
     },
     "panda":{
         "name":"Panda",
@@ -228,6 +228,6 @@ export default{
         "route":"eddy",
         "sheet":"eddy",
         "emotes":["eddy.png","eddy.webp","eddy.gif"],
-        "type":"Tricky, 50/50, Evasive, Stance"
+        "type":"Tricky, 50/50, Evasive, Stance, Punishment"
     }
 }

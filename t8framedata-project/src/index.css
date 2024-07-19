@@ -701,6 +701,29 @@ button:focus-visible {
   padding-bottom: 4.5rem;
 }
 
+.features-text {
+  max-width: 545px;
+  text-align: left;
+}
+
+.features-text ul {
+  list-style-type: none;
+}
+
+.keyword-list {
+  list-style-type: none;
+  padding-top: 1rem;
+
+}
+
+.keyword-list li {
+  margin-bottom: 2rem;
+}
+
+.keyword {
+  font-weight: bold;
+}
+
 /* ############################################################ Credits ############################################################*/
 
 .credits {
@@ -709,6 +732,7 @@ button:focus-visible {
   flex-direction: column;
   max-width: 545px;
   padding-bottom: 4.5rem;
+  text-align: left;
 }
 
 /* ############################################################ Footer ############################################################*/
