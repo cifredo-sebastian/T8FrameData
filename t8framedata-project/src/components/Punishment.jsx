@@ -29,10 +29,7 @@ function Punishment () {
   if (!charPunishers) {
     return (
       <div>
-        <div className='character-title'>
-          <img alt={char} src={`/src/assets/characterthumbs/${char}-512.png`} width={52} height={52}></img>
-          <h2>{charName}</h2>
-        </div>
+        <CharacterTitle/>
         <CharacterNav/>
         <p>Punishment data for {charName} could not be found.</p>
       </div>

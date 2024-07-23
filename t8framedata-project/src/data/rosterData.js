@@ -231,11 +231,11 @@ export default{
         "type":"Tricky, 50/50, Evasive, Stance, Punishment"
     },
 
-    // "lidia":{
-    //     "name":"Lidia",
-    //     "route":"lidia",
-    //     "sheet":"lidia",
-    //     "emotes":["","",""],
-    //     "type":""
-    // }
+    "lidia":{
+        "name":"Lidia",
+        "route":"lidia",
+        "sheet":"lidia",
+        "emotes":["","",""],
+        "type":""
+    }
 }
