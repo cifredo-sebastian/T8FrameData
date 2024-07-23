@@ -276,7 +276,7 @@ export default {
             
         ],
         "docs" : {
-            
+            "Lidia Tekken 8":"https://docs.google.com/spreadsheets/d/1ImGG-libZQQa0da4AM85oQ3EQnMwUsQZt3hfsR4ZcbU/edit?gid=1135104846#gid=1135104846",
 
 
         },

@@ -229,5 +229,13 @@ export default{
         "sheet":"eddy",
         "emotes":["eddy.png","eddy.webp","eddy.gif"],
         "type":"Tricky, 50/50, Evasive, Stance, Punishment"
-    }
+    },
+
+    // "lidia":{
+    //     "name":"Lidia",
+    //     "route":"lidia",
+    //     "sheet":"lidia",
+    //     "emotes":["","",""],
+    //     "type":""
+    // }
 }
