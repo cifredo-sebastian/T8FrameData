@@ -277,6 +277,7 @@ export default {
         ],
         "docs" : {
             "Lidia Tekken 8":"https://docs.google.com/spreadsheets/d/1ImGG-libZQQa0da4AM85oQ3EQnMwUsQZt3hfsR4ZcbU/edit?gid=1135104846#gid=1135104846",
+            "Tekken 8 Stance Dance Lidia" : "https://docs.google.com/spreadsheets/d/1BtGOZ6lrecGYXg63T8m4j824YmtVFbItS4IXk5pEEh8/edit?gid=52378545#gid=52378545"
 
 
         },
