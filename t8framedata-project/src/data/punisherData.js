@@ -711,11 +711,15 @@ export default {
             ["i17","b+3,4,qcf+1+2","46","KND","Does not Wall Splat"],
         ],
         "crouching" : [
-            ["i11"],
-            ["i12"],
-            ["i12"],
-            ["i15"],
-            ["i18"]
+            ["i11","ws4", "13","+7"],
+            ["i11","ws4,2", "25","+8 CAT"],
+            ["i12","fc df+2","22","+17g","Heat Engager, Wall Splat"],
+            ["i13","ws1,2","30","+11 CAT"],
+            ["i13","ws1,4","32","KND","Wall Splat"],
+            ["i14","ws3","20 (+)","KND","Free f,f+1+2 on hit, Wall Splat"],
+            ["i15","ws2","15 (+)","Launch"],
+            ["i16","cc 3:2","21 (+)","Launch","Use for stagger lows. cc = crouch cancel"],
+            ["i23","uf~n+4","20 (+)", "Launch"]
         ]
     },
 }
