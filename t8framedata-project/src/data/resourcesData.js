@@ -273,9 +273,11 @@ export default {
     "lidia" : {
         "discord" : "https://discord.gg/ZyHmEFV",
         "youtube" : [
-            
+            "https://youtu.be/AO-2k4k52ME?si=56MsM-YS3gS2-Bs_",
+            "https://www.youtube.com/watch?v=HSLb6SguHeM",
         ],
         "docs" : {
+            "Lidia Sobieska's Character Tech Cheat Sheet":"https://docs.google.com/spreadsheets/d/1iN7WO0TcInhhhejy9EqShHQguVQyZKGB/edit?gid=1634078866#gid=1634078866",
             "Lidia Tekken 8":"https://docs.google.com/spreadsheets/d/1ImGG-libZQQa0da4AM85oQ3EQnMwUsQZt3hfsR4ZcbU/edit?gid=1135104846#gid=1135104846",
             "Tekken 8 Stance Dance Lidia" : "https://docs.google.com/spreadsheets/d/1BtGOZ6lrecGYXg63T8m4j824YmtVFbItS4IXk5pEEh8/edit?gid=52378545#gid=52378545"
 

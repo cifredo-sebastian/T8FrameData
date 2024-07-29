@@ -236,6 +236,6 @@ export default{
         "route":"lidia",
         "sheet":"lidia",
         "emotes":["","",""],
-        "type":"Stance, Punishment,"
+        "type":"Stance, Punishment, Rushdown, Mixups"
     }
 }
