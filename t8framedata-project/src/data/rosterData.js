@@ -235,7 +235,7 @@ export default{
         "name":"Lidia",
         "route":"lidia",
         "sheet":"lidia",
-        "emotes":["","",""],
+        "emotes":["lidia (3).webp","lidia (2).webp","lidia (1).webp"],
         "type":"Stance, Punishment, Rushdown, Mixups"
     }
 }
