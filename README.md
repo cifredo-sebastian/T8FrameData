@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to TEKKENSOURCE 👋</h1>
-<img alt="Logo" src="tekken8framedata-project\public\assets\t8s-logo2.png">
+<img alt="Logo" src="t8framedata-project\public\assets\t8s-logo2.png">
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
 </p>
