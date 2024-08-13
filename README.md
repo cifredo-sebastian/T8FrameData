@@ -15,7 +15,6 @@
 * Character Punishment. What moves to punish with for every character, including notes. A (+) next to the damage value of a punish indicated a combo potential for more damage.
 * Character Resources. Find more information, including how to play the character, top moves to use, combos and more through the character's Discord server, written character guides and video guides.
 
-## Example
 
 ## Install
 
