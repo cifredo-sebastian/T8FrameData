@@ -2,7 +2,6 @@
 <img alt="Logo" src="public\assets\t8s-logo2.png">
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
-  <img alt="JS Badge" src="https://forthebadge.com/images/badges/made-with-java.png" />
 </p>
 
 > A TEKKEN 8 frame data and character resources webapp.
