@@ -5,7 +5,7 @@
 
 > A TEKKEN 8 frame data and character resources webapp.
 
-### 🏠 [Homepage]( tekken-source.vercel.app)
+### 🏠 [Homepage](tekken-source.vercel.app)
 
 ## Install
 
