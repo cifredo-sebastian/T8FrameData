@@ -6,12 +6,24 @@
 
 > A TEKKEN 8 frame data and character resources webapp.
 
-### 🏠 [Homepage](tekken-source.vercel.app)
+### tekken-source.vercel.app
+
+<!-- ### 🏠 [Homepage](tekken-source.vercel.app) -->
+
+## Features
+* Frame Data. Information for the frame data table is being fetched from a <a href="https://docs.google.com/spreadsheets/d/1IDC11ShZjpo6p5k8kV24T-jumjY27oQZlwvKr_lb4iM/edit?gid=1132769394#gid=1132769394">Google Sheets<a> page and displayed on a table for every TEKKEN 8 character.
+* Search bar. Search by move input, Search by move name, Search by move startup, Search by move block frames
+* Color coded block frames. Moves that are + on block are colored in blue, moves that are -10 or higher are colored in a light red, and moves that are at least -15 have a darker red color, to indicate that they are launch punishable by most of the cast.
+* Character Punishment. What moves to punish with for every character, including notes. A (+) next to the damage value of a punish indicated a combo potential for more damage.
+* Character Resources. Find more information, including how to play the character, top moves to use, combos and more through the character's Discord server, written character guides and video guides.
+
+## Example
 
 ## Install
 
 ```sh
 npm install
+npm run dev
 ```
 
 ## Author
