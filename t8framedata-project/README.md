@@ -6,9 +6,7 @@
 
 > A TEKKEN 8 frame data and character resources webapp.
 
-### tekken-source.vercel.app
-
-<!-- ### 🏠 [Homepage](tekken-source.vercel.app) -->
+<h2 align="center">👊 <a href="tekken-source.vercel.app">Live Website</a> 👊</h2>
 
 ## Features
 * Frame Data. Information for the frame data table is being fetched from a <a href="https://docs.google.com/spreadsheets/d/1IDC11ShZjpo6p5k8kV24T-jumjY27oQZlwvKr_lb4iM/edit?gid=1132769394#gid=1132769394">Google Sheets<a> page and displayed on a table for every TEKKEN 8 character.
