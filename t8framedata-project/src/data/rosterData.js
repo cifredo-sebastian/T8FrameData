@@ -55,13 +55,6 @@ export default{
         "emotes":["feng (1).webp","feng (2).webp","feng (3).webp"],
         "type":"Poke, Evasive, Mixups"
     },
-    "heihachi":{
-        "name":"Heihachi",
-        "route":"heihachi",
-        "sheet":"heihachi",
-        "emotes":["hwo (1).webp","hwo (2).webp","hwo (3).webp"],
-        "type":"Damage, Rushdown, 50/50, Stance, Mishima"
-    },
     "hwoarang":{
         "name":"Hwoarang",
         "route":"hwoarang",
@@ -244,5 +237,12 @@ export default{
         "sheet":"lidia",
         "emotes":["lidia (3).webp","lidia (2).webp","lidia (1).webp"],
         "type":"Stance, Punishment, Rushdown, Mixups"
-    }
+    },
+    "heihachi":{
+        "name":"Heihachi",
+        "route":"heihachi",
+        "sheet":"heihachi",
+        "emotes":["heihachi (1).webp","heihachi (2).webp","heihachi (3).webp"],
+        "type":"Damage, Rushdown, 50/50, Stance, Mishima"
+    },
 }
