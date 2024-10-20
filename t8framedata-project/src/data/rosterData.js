@@ -55,6 +55,13 @@ export default{
         "emotes":["feng (1).webp","feng (2).webp","feng (3).webp"],
         "type":"Poke, Evasive, Mixups"
     },
+    "heihachi":{
+        "name":"Heihachi",
+        "route":"heihachi",
+        "sheet":"heihachi",
+        "emotes":["hwo (1).webp","hwo (2).webp","hwo (3).webp"],
+        "type":"Damage, Rushdown, 50/50, Stance, Mishima"
+    },
     "hwoarang":{
         "name":"Hwoarang",
         "route":"hwoarang",

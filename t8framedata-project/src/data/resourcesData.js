@@ -106,6 +106,18 @@ export default {
 
         },
     },
+    "heihachi" : {
+        "discord" : "https://discord.com/invite/j3WKYVj",
+        "youtube" : [
+            "https://www.youtube.com/watch?v=OdLc_4JFGno",
+            "https://www.youtube.com/watch?v=Lmi5NFpuLks",
+            "https://www.youtube.com/watch?v=ySgib9HJEVY&pp=ygURSGVpaGFjaGkgdGVra2VuIDg%3D",
+            "https://www.youtube.com/watch?v=miafSSHSkYc&pp=ygURSGVpaGFjaGkgdGVra2VuIDg%3D"
+        ],
+        "docs" : {
+            "Heihachi Mishima Tekken 8 Doc" : "https://docs.google.com/spreadsheets/d/1BPwbt1qOcAtxpW71aZlZa8aLvZWknl7ubPRomXv9yOY/edit?gid=1641917603#gid=1641917603"
+        },
+    },
     "hwoarang" : {
         "discord" : "https://discord.gg/rXNYq9j",
         "youtube" : [
