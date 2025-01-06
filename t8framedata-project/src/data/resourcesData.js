@@ -65,7 +65,11 @@ export default {
     "clive" : {
         "discord" : "https://discord.gg/6cdNRwSKrm",
         "youtube" : [
-            "https://youtu.be/Ea05dOmJjpg",
+            "https://www.youtube.com/watch?v=0VNTXsTbjHo",
+            "https://www.youtube.com/watch?v=sbN3XqyLZ24",
+            "https://www.youtube.com/watch?v=Hiz1sMNeRcI",
+            "https://www.youtube.com/watch?v=XoJ-RxbD2eI",
+            
         ],
         "docs" : {
             "Clive Rosfield document by Luna" : "https://docs.google.com/spreadsheets/d/1TES4z-jWnSNOoCzLyK-soolVxFethjv3ix7VKZokPYE/edit?gid=1828029016#gid=1828029016",

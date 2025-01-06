@@ -109,6 +109,26 @@ export default {
             ["i15","ws2","20 (+)","+26a (+16)"]
         ]
     },
+    "clive" : {
+        "standing" : [
+            ["i10", "1,1","18","+6","Hold f for PHX transition"],
+            ["i10", "1,2","25","+22a (+17)","Gives 30% Zanketsuken meter"],
+            ["i12", "2,1","31","+8a (-1)","Has perfect Blue Spark timing"],
+            ["i12", "2,2","20","-1"],
+            ["i12", "4,2","25","+3"],
+            ["i12", "4,4","21","+0","Hold f for PHX transition"],
+            ["i13", "1+2","24","+2","Heat Engager, Heat Dash"],
+            ["i14", "df+1,2,1","38","+32a (+11)"],
+            ["i15", "df+2","15 (81-98)","+30a (+20)"],
+            ["i15", "f+2,1","23","+20g"]
+        ],
+        "crouching" : [
+            ["i11", "ws4","14","+6", "Hold f for PHX transition"],
+            ["i13", "ws1,2","30","+9","Wall Splat, Gives 40% Zanketsuken meter"],
+            ["i13","1+2","24","+2"],
+            ["i15","ws2","15","+53a"]
+        ]
+    },
     "eddy" : {
         "standing" : [
             ["i10","1,3","21","+7c"],
