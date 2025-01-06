@@ -62,6 +62,17 @@ export default {
             "Claudio Serafino Bible" : "https://docs.google.com/spreadsheets/d/14CMOH7Mu0mMFdnRRocDxLYMnD2gRgs3afBJ3Pe0lra8/edit?gid=0#gid=0"
         },
     },
+    "clive" : {
+        "discord" : "https://discord.gg/6cdNRwSKrm",
+        "youtube" : [
+            "https://youtu.be/Ea05dOmJjpg",
+        ],
+        "docs" : {
+            "Clive Rosfield document by Luna" : "https://docs.google.com/spreadsheets/d/1TES4z-jWnSNOoCzLyK-soolVxFethjv3ix7VKZokPYE/edit?gid=1828029016#gid=1828029016",
+            "Clive Footnotes and Theory":"https://docs.google.com/document/d/1HoUa0RWgCetHKV-pyA6pQy898Lqbe9Ghp3uEqmOLVgw/edit?tab=t.0#heading=h.4bcb6codwowv",
+            "Clive Rosfield: The Gold Way":"https://colaistebhailechlair-my.sharepoint.com/:w:/g/personal/cbc18005_cbcg_ie/EYZYNrPubZ5Dv3mH97p5N2UBt7gm7GH2wCMbtFyWd7vVSw?rtime=HOAbZ5Qu3Ug",
+        },
+    },
     "deviljin" : {
         "discord" : "https://discord.com/invite/j2ZKVnk",
         "youtube" : [

@@ -245,4 +245,11 @@ export default{
         "emotes":["heihachi (1).webp","heihachi (2).webp","heihachi (3).webp"],
         "type":"Damage, Rushdown, 50/50, Stance, Mishima"
     },
+    "clive":{
+        "name":"Clive",
+        "route":"clive",
+        "sheet":"clive",
+        "emotes":["clive (1).webp","clive (2).webp","clive (3).webp"],
+        "type":"Range, Damage, Poke, Stance"
+    },
 }
